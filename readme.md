@@ -11,6 +11,7 @@
 - [Developer Tea](https://developertea.com/)
 - [Talk Python To Me](http://www.talkpythontome.com/)
 - [The Path to Performance](http://pathtoperf.com/)
+- [TTL Podcast](http://ttlpodcast.com/)
 
 ## Technology
 
