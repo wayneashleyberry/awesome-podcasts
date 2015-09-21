@@ -41,3 +41,9 @@
 - [99% Invisible](http://99percentinvisible.org/)
 - [Benjamen Walker's Theory of Everything](https://toe.prx.org/)
 - [Slack Variety Pack](https://slack.com/varietypack)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Wayne Ashley Berry has waived all copyright and related or neighboring rights to this work.
