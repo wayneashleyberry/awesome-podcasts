@@ -4,6 +4,7 @@
 
 ## Programming
 
+- [The Bike Shed](http://bikeshed.fm/)
 - [The Changelog](https://changelog.com/)
 - [The Laravel Podcast](http://www.laravelpodcast.com/)
 - [NodeUp](http://nodeup.com/)
