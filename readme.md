@@ -5,6 +5,7 @@
 ## Programming
 
 - [The Bike Shed](http://bikeshed.fm/)
+- [Ctrl-Walt-Delete](http://www.theverge.com/label/ctrl-walt-delete)
 - [The Changelog](https://changelog.com/)
 - [The Laravel Podcast](http://www.laravelpodcast.com/)
 - [NodeUp](http://nodeup.com/)
