@@ -9,6 +9,7 @@
 - [The Bike Shed](http://bikeshed.fm/)
 - [The Changelog](https://changelog.com/)
 - [The Laravel Podcast](http://www.laravelpodcast.com/)
+- [Go Gab](https://www.briefs.fm/go-gab)
 - [NodeUp](http://nodeup.com/)
 - [Functional Geekery](http://www.functionalgeekery.com/)
 - [Full Stack Radio](http://fullstackradio.com/)
@@ -18,12 +19,16 @@
 - [The Path to Performance](http://pathtoperf.com/)
 - [TTL Podcast](http://ttlpodcast.com/)
 - [Turing Incomplete](http://turing.cool/)
+- [The Web Platform Podcast](http://www.thewebplatformpodcast.com/)
+- [Software Engineering Radio](http://www.se-radio.net/)
 
 #### Technology
 
+- [Accidental Tech Podcast](http://atp.fm/)
 - [Analog(ue)](http://www.relay.fm/analogue)
 - [a16z](http://a16z.com/)
 - [Ctrl-Walt-Delete](http://www.theverge.com/label/ctrl-walt-delete)
+- [The Vergecast](http://www.theverge.com/label/the-vergecast)
 
 #### Business
 
@@ -45,6 +50,14 @@
 - [99% Invisible](http://99percentinvisible.org/)
 - [Benjamen Walker's Theory of Everything](https://toe.prx.org/)
 - [Slack Variety Pack](https://slack.com/varietypack)
+
+#### Science
+
+- [StarTalk Radio](http://www.startalkradio.net/)
+
+#### History
+
+- [Dan Carline's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
 
 #### License
 
