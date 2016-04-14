@@ -15,7 +15,7 @@
 - [Full Stack Radio](http://fullstackradio.com/)
 - [Dev Discussions](http://www.devdiscussions.com/)
 - [Developer Tea](https://developertea.com/)
-- [Talk Python To Me](http://www.talkpythontome.com/)
+- [Hanselminutes](http://hanselminutes.com/)
 - [The Path to Performance](http://pathtoperf.com/)
 - [TTL Podcast](http://ttlpodcast.com/)
 - [Turing Incomplete](http://turing.cool/)
@@ -57,7 +57,7 @@
 
 #### History
 
-- [Dan Carline's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
+- [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
 
 #### License
 
