@@ -42,6 +42,7 @@
 
 #### Design
 
+- [Layout](http://layout.fm/)
 - [Through Process](http://www.throughprocess.com/)
 
 #### Radio
