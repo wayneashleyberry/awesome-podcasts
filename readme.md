@@ -50,7 +50,10 @@
 - [Radiolab](http://www.radiolab.org/)
 - [99% Invisible](http://99percentinvisible.org/)
 - [Benjamen Walker's Theory of Everything](https://toe.prx.org/)
+- [The Truth](http://thetruthpodcast.com/The_Truth.html) – Movies for your ears.
+- [Love + Radio](http://loveandradio.org/) – Really bizarre and amazing love/life stories.
 - [Slack Variety Pack](https://slack.com/varietypack)
+- [Savage Lovecast](http://www.savagelovecast.com/) – Love and sex advice.
 
 #### Science
 
