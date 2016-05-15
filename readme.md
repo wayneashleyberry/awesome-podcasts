@@ -113,6 +113,9 @@
 
 - [The Distance](https://thedistance.com/)
 - [The Rocketship Podcast](http://rocketship.fm/)
+- [CodePen Radio](https://blog.codepen.io/radio/)
+- [Bootstrapped](http://bootstrapped.fm/)
+- [Bootstrapped Web](http://bootstrappedweb.com/)
 
 #### Stationary
 
