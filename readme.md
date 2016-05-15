@@ -117,6 +117,10 @@
 - [Bootstrapped](http://bootstrapped.fm/)
 - [Bootstrapped Web](http://bootstrappedweb.com/)
 
+#### Product
+
+- [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
+
 #### Stationary
 
 - [The Pen Addict](http://www.relay.fm/penaddict)
