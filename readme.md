@@ -50,23 +50,23 @@
 
 #### Developer Interviews
 
-- [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/)
-- [Descriptive](http://descriptive.audio/)
-- [Hello World Podcast](https://wildermuth.com/hwpod)
-- [Scale Your Code](https://scaleyourcode.com/)
-- [Software Engineering Daily](http://softwareengineeringdaily.com/)
-- [Software Engineering Radio](http://www.se-radio.net/)
-- [no dogma](http://nodogmapodcast.bryanhogan.net/)
+- [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) Away From The Keyboard is a podcast that talks to technologists and tells their stories.
+- [Descriptive](http://descriptive.audio/) - Programmer origin stories
+- [Hello World Podcast](https://wildermuth.com/hwpod) - Interviews with your favorite speakers about how they got started!
+- [Scale Your Code](https://scaleyourcode.com/) - Learn from today's most successful developers and CTOs with in-depth interviews.
+- [Software Engineering Daily](http://softwareengineeringdaily.com/) - Software Engineering Daily features daily interviews about technical software topics.
+- [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
+- [no dogma](http://nodogmapodcast.bryanhogan.net/) - Discussions on software development
 
 #### History
 
-- [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
+- [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past.
 
 #### Language Specific
 
 - C#
-    - [.Net Rocks!](https://www.dotnetrocks.com/)
-    - [CodeChat](https://channel9.msdn.com/Shows/codechat)
+    - [.Net Rocks!](https://www.dotnetrocks.com/) - .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform.
+    - [CodeChat](https://channel9.msdn.com/Shows/codechat) - CodeChat is an endless collection of casual conversations with software developers, technologists, gadgeteers, innovators, makers, and more.
 - C++
     - [CppCast](http://cppcast.com/)
 - Clojure
