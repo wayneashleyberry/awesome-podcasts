@@ -11,6 +11,7 @@
 - [Design](#design)
 - [DevOps](#devops)
 - [Developer Interviews](#developer-interviews)
+- [Gaming](#gaming)
 - [History](#history)
 - [Microsoft](#microsoft)
 - [Mobile](#mobile)
@@ -58,6 +59,10 @@
 - [Scale Your Code](https://scaleyourcode.com/) - Learn from today's most successful developers and CTOs with in-depth interviews.
 - [Software Engineering Daily](http://softwareengineeringdaily.com/) - Software Engineering Daily features daily interviews about technical software topics.
 - [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
+
+#### Gaming
+
+- [Polygon Longform](http://www.polygon.com/longform) - Description Polygon Longform is a podcast containing spoken word versions of our in-depth features and monthly covers.
 
 #### History
 
