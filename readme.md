@@ -27,7 +27,7 @@
 #### Business
 
 - [Bootstrapped](http://bootstrapped.fm/) - 25+ Years of Software Bootstrapping Experience
-- [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
+- [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it's like running a small web software business.
 - [The Distance](https://thedistance.com/) - The Distance is a podcast by Basecamp about longevity in business, featuring the stories of businesses that have endured for at least 25 years and the people who got them there.
 - [The Rocketship Podcast](http://rocketship.fm/) - The podcast that inspires tens of thousands of entrepreneurs each week.
 - [StartUp](https://gimletmedia.com/show/startup/) - StartUp is a podcast series about what it’s really like to get a business off the ground.
@@ -36,7 +36,7 @@
 #### Design
 
 - [Layout](http://layout.fm/) - Layout is a weekly podcast about design, technology, programming and everything else.
-- [Tentative](http://tentative.fm/) - Tentative is a podcast about digital product design, hosted by thoughtbot designers Reda Lemeden & Kyle Fiedler.
+- [Tentative](http://tentative.fm/) - Tentative is a podcast about digital product design, hosted by thoughtbot designers.
 - [Through Process](http://www.throughprocess.com/) - Through Process is a podcast about how we become designers.
 
 #### DevOps
