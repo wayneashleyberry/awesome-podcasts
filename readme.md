@@ -106,6 +106,8 @@
 #### Product
 
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
+- [Product People](http://productpeople.tv/)
+- [This is Product Management](http://www.thisisproductmanagement.com/)
 
 #### Programming
 
