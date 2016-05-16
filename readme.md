@@ -12,11 +12,11 @@
 - [DevOps](#devops)
 - [Developer Interviews](#developer-interviews)
 - [History](#history)
-- [Language Specific](#language-specific)
 - [Microsoft](#microsoft)
 - [Mobile](#mobile)
 - [Product](#product)
 - [Programming](#programming)
+- [Programming Languages](#programming-languages)
 - [Radio](#radio)
 - [Science](#science)
 - [Stationary](#stationary)
@@ -63,42 +63,6 @@
 
 - [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past.
 
-#### Language Specific
-
-- C#
-    - [.Net Rocks!](https://www.dotnetrocks.com/) - .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform.
-    - [CodeChat](https://channel9.msdn.com/Shows/codechat) - CodeChat is an endless collection of casual conversations with software developers, technologists, gadgeteers, innovators, makers, and more.
-- C++
-    - [CppCast](http://cppcast.com/) - CppCast is the only podcast for C++ developers by C++ developers.
-- Clojure
-    - [The Cognicast](http://blog.cognitect.com/cognicast/) - A podcast by Cognitect, Inc. about software and the people that create it.
-- Elixir
-    - [The Elixir Fountain](https://soundcloud.com/elixirfountain) - Your weekly podcast for news & interviews from around the Elixir lang Community
-- Go
-    - [Go Gab](https://www.briefs.fm/go-gab) - A podcast about everything Go.
-- JavaScript
-    - [FiveJS](https://fivejs.codeschool.com/) - The latest news in the JavaScript community.
-    - [NodeUp](http://nodeup.com/) - NodeUp is a podcast about Node.js
-    - [Javascript Jabber](https://devchat.tv/js-jabber) - JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
-- PHP
-    - [PHP Roundtable](https://www.phproundtable.com/)
-    - [PHP Town Hall](https://phptownhall.com/)
-    - [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
-    - [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Join us each week as we discuss all things web development.
-    - [Voices of the elePHPant](https://voicesoftheelephpant.com/)
-- Python
-    - [Podcast.\_\_init\_\_](http://podcastinit.com/) - A podcast about Python and the people who make it great
-    - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies
-- Ruby
-    - [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community.
-    - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, Ember.js, open source software, and the programming profession.
-    - [The Ruby Rogues](https://devchat.tv/ruby-rogues) - The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby.
-- Rust
-    - [New Rustacean](http://www.newrustacean.com/) - A Podcast About Learning Rust
-    - [Rusty Radio](https://soundcloud.com/posix4e/sets/rustyradio)
-- Scala
-    - [The Scalawags](http://scalawags.tv/) - Monthly podcasts about Scala language
-
 #### Microsoft
 
 - [Coding Blocks](http://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer
@@ -142,6 +106,42 @@
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of programming for creative applications
 - [ThoughtWorks](https://www.thoughtworks.com/search?q=podcast&c=sitewide) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 - [Turing Incomplete](http://turing.cool/) - A Podcast About Programming
+
+#### Programming Languages
+
+- C#
+    - [.Net Rocks!](https://www.dotnetrocks.com/) - .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform.
+    - [CodeChat](https://channel9.msdn.com/Shows/codechat) - CodeChat is an endless collection of casual conversations with software developers, technologists, gadgeteers, innovators, makers, and more.
+- C++
+    - [CppCast](http://cppcast.com/) - CppCast is the only podcast for C++ developers by C++ developers.
+- Clojure
+    - [The Cognicast](http://blog.cognitect.com/cognicast/) - A podcast by Cognitect, Inc. about software and the people that create it.
+- Elixir
+    - [The Elixir Fountain](https://soundcloud.com/elixirfountain) - Your weekly podcast for news & interviews from around the Elixir lang Community
+- Go
+    - [Go Gab](https://www.briefs.fm/go-gab) - A podcast about everything Go.
+- JavaScript
+    - [FiveJS](https://fivejs.codeschool.com/) - The latest news in the JavaScript community.
+    - [NodeUp](http://nodeup.com/) - NodeUp is a podcast about Node.js
+    - [Javascript Jabber](https://devchat.tv/js-jabber) - JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
+- PHP
+    - [PHP Roundtable](https://www.phproundtable.com/)
+    - [PHP Town Hall](https://phptownhall.com/)
+    - [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
+    - [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Join us each week as we discuss all things web development.
+    - [Voices of the elePHPant](https://voicesoftheelephpant.com/)
+- Python
+    - [Podcast.\_\_init\_\_](http://podcastinit.com/) - A podcast about Python and the people who make it great
+    - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies
+- Ruby
+    - [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community.
+    - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, Ember.js, open source software, and the programming profession.
+    - [The Ruby Rogues](https://devchat.tv/ruby-rogues) - The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby.
+- Rust
+    - [New Rustacean](http://www.newrustacean.com/) - A Podcast About Learning Rust
+    - [Rusty Radio](https://soundcloud.com/posix4e/sets/rustyradio)
+- Scala
+    - [The Scalawags](http://scalawags.tv/) - Monthly podcasts about Scala language
 
 #### Radio
 
