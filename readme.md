@@ -6,47 +6,38 @@
 
 ### Table of Contents
 
-- [Programming](#programming)
-- [Testing](#testing)
-- [DevOps](#devops)
-- [Web](#web)
-- [Mobile](#mobile)
-- [MS / .NET](#ms--net)
-- [Language Specific](#language-specific)
-- [Developer Interviews](#developer-interviews)
-- [Technology](#technology)
 - [Business](#business)
-- [Product](#product)
-- [Stationary](#stationary)
 - [Design](#design)
+- [DevOps](#devops)
+- [Developer Interviews](#developer-interviews)
+- [History](#history)
+- [Language Specific](#language-specific)
+- [MS / .NET](#ms--net)
+- [Mobile](#mobile)
+- [Product](#product)
+- [Programming](#programming)
 - [Radio](#radio)
 - [Science](#science)
-- [History](#history)
+- [Stationary](#stationary)
+- [Technology](#technology)
+- [Testing](#testing)
+- [Web](#web)
 
-#### Programming
+#### Business
 
-- [Code Podcast](http://codepodcast.com/)
-- [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/)
-- [Dev Discussions](http://www.devdiscussions.com/)
-- [Developer On Fire](http://developeronfire.com/)
-- [Developer Tea](https://developertea.com/)
-- [DevelopersHangout](http://www.developershangout.io/)
-- [Full Stack Radio](http://fullstackradio.com/)
-- [Functional Geekery](http://www.functionalgeekery.com/)
-- [My Code Is Broken](https://mycodeisbroken.com/)
-- [Programming Throwdown](http://www.programmingthrowdown.com/)
-- [Reactive](http://reactive.audio/)
-- [That Podcast](https://thatpodcast.io/)
-- [The Bike Shed](http://bikeshed.fm/)
-- [The Changelog](https://changelog.com/)
-- [The Creative Coding Podcast](http://creativecodingpodcast.com/)
-- [ThoughtWorks](https://www.thoughtworks.com/search?q=podcast&c=sitewide)
-- [Turing Incomplete](http://turing.cool/)
+- [Bootstrapped Web](http://bootstrappedweb.com/)
+- [Bootstrapped](http://bootstrapped.fm/)
+- [CodePen Radio](https://blog.codepen.io/radio/)
+- [The Distance](https://thedistance.com/)
+- [The Rocketship Podcast](http://rocketship.fm/)
+- [StartUp](https://gimletmedia.com/show/startup/)
+- [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/)
 
-#### Testing
+#### Design
 
-- [Test Talks](http://joecolantonio.com/testtalks/)
-- [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/)
+- [Layout](http://layout.fm/)
+- [Tentative](http://tentative.fm/)
+- [Through Process](http://www.throughprocess.com/)
 
 #### DevOps
 
@@ -57,38 +48,19 @@
 - [The Cloudcast](http://www.thecloudcast.net/)
 - [The Ship Show](http://theshipshow.com/)
 
-#### Web
+#### Developer Interviews
 
-- [/dev/hell](http://devhell.info/)
-- [Between Screens](https://soundcloud.com/between-screens)
-- [Boagworld](https://boagworld.com/show)
-- [Front-end Five](https://frontendfive.codeschool.com/)
-- [Relative Paths](http://relativepaths.uk/)
-- [Shop Talk](http://shoptalkshow.com/)
-- [TTL Podcast](http://ttlpodcast.com/)
-- [The Path to Performance](http://pathtoperf.com/)
-- [The Web Platform Podcast](http://www.thewebplatformpodcast.com/)
-- [Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
+- [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/)
+- [Descriptive](http://descriptive.audio/)
+- [Hello World Podcast](https://wildermuth.com/hwpod)
+- [Scale Your Code](https://scaleyourcode.com/)
+- [Software Engineering Daily](http://softwareengineeringdaily.com/)
+- [Software Engineering Radio](http://www.se-radio.net/)
+- [no dogma](http://nodogmapodcast.bryanhogan.net/)
 
-#### Mobile
+#### History
 
-- [Android Developers Backstage](http://androidbackstage.blogspot.com/)
-- [Fragmented](http://fragmentedpodcast.com/)
-- [iOSBytes](https://iosbytes.codeschool.com/)
-- [iPhreaks](https://devchat.tv/iphreaks)
-
-#### MS / .NET
-
-- [.Net Rocks!](https://www.dotnetrocks.com/)
-- [CodeChat](https://channel9.msdn.com/Shows/codechat)
-- [Coding Blocks](http://www.codingblocks.net/)
-- [Ctrl+Click](http://ctrlclickcast.com/)
-- [Hanselminutes](http://hanselminutes.com/)
-- [Herding Code](http://herdingcode.com/)
-- [MS Dev Show](http://msdevshow.com/)
-- [PowerScripting Podcast](http://powershell.org/wp/powerscripting-podcast/)
-- [RunAs Radio](http://www.runasradio.com/)
-- [Yet Another Podcast](http://jesseliberty.com/podcast/)
+- [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
 
 #### Language Specific
 
@@ -112,48 +84,50 @@
 - [Three Devs and a Maybe](http://threedevsandamaybe.com/)
 - [Voices of the elePHPant](https://voicesoftheelephpant.com/)
 
-#### Developer Interviews
+#### MS / .NET
 
-- [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/)
-- [Descriptive](http://descriptive.audio/)
-- [Hello World Podcast](https://wildermuth.com/hwpod)
-- [Scale Your Code](https://scaleyourcode.com/)
-- [Software Engineering Daily](http://softwareengineeringdaily.com/)
-- [Software Engineering Radio](http://www.se-radio.net/)
-- [no dogma](http://nodogmapodcast.bryanhogan.net/)
+- [.Net Rocks!](https://www.dotnetrocks.com/)
+- [CodeChat](https://channel9.msdn.com/Shows/codechat)
+- [Coding Blocks](http://www.codingblocks.net/)
+- [Ctrl+Click](http://ctrlclickcast.com/)
+- [Hanselminutes](http://hanselminutes.com/)
+- [Herding Code](http://herdingcode.com/)
+- [MS Dev Show](http://msdevshow.com/)
+- [PowerScripting Podcast](http://powershell.org/wp/powerscripting-podcast/)
+- [RunAs Radio](http://www.runasradio.com/)
+- [Yet Another Podcast](http://jesseliberty.com/podcast/)
 
-#### Technology
+#### Mobile
 
-- [Accidental Tech Podcast](http://atp.fm/)
-- [Analog(ue)](http://www.relay.fm/analogue)
-- [Ctrl-Walt-Delete](http://www.theverge.com/label/ctrl-walt-delete)
-- [The Vergecast](http://www.theverge.com/label/the-vergecast)
-- [a16z](http://a16z.com/)
-
-#### Business
-
-- [Bootstrapped Web](http://bootstrappedweb.com/)
-- [Bootstrapped](http://bootstrapped.fm/)
-- [CodePen Radio](https://blog.codepen.io/radio/)
-- [The Distance](https://thedistance.com/)
-- [The Rocketship Podcast](http://rocketship.fm/)
-- [StartUp](https://gimletmedia.com/show/startup/)
-- [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/)
+- [Android Developers Backstage](http://androidbackstage.blogspot.com/)
+- [Fragmented](http://fragmentedpodcast.com/)
+- [iOSBytes](https://iosbytes.codeschool.com/)
+- [iPhreaks](https://devchat.tv/iphreaks)
 
 #### Product
 
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
 
-#### Stationary
+#### Programming
 
-- [The Erasable Podcast](http://www.erasable.us/)
-- [The Pen Addict](http://www.relay.fm/penaddict)
-
-#### Design
-
-- [Layout](http://layout.fm/)
-- [Tentative](http://tentative.fm/)
-- [Through Process](http://www.throughprocess.com/)
+- [/dev/hell](http://devhell.info/)
+- [Code Podcast](http://codepodcast.com/)
+- [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/)
+- [Dev Discussions](http://www.devdiscussions.com/)
+- [Developer On Fire](http://developeronfire.com/)
+- [Developer Tea](https://developertea.com/)
+- [DevelopersHangout](http://www.developershangout.io/)
+- [Full Stack Radio](http://fullstackradio.com/)
+- [Functional Geekery](http://www.functionalgeekery.com/)
+- [My Code Is Broken](https://mycodeisbroken.com/)
+- [Programming Throwdown](http://www.programmingthrowdown.com/)
+- [Reactive](http://reactive.audio/)
+- [That Podcast](https://thatpodcast.io/)
+- [The Bike Shed](http://bikeshed.fm/)
+- [The Changelog](https://changelog.com/)
+- [The Creative Coding Podcast](http://creativecodingpodcast.com/)
+- [ThoughtWorks](https://www.thoughtworks.com/search?q=podcast&c=sitewide)
+- [Turing Incomplete](http://turing.cool/)
 
 #### Radio
 
@@ -166,9 +140,35 @@
 
 - [StarTalk Radio](http://www.startalkradio.net/)
 
-#### History
+#### Stationary
 
-- [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
+- [The Erasable Podcast](http://www.erasable.us/)
+- [The Pen Addict](http://www.relay.fm/penaddict)
+
+#### Technology
+
+- [Accidental Tech Podcast](http://atp.fm/)
+- [Analog(ue)](http://www.relay.fm/analogue)
+- [Ctrl-Walt-Delete](http://www.theverge.com/label/ctrl-walt-delete)
+- [The Vergecast](http://www.theverge.com/label/the-vergecast)
+- [a16z](http://a16z.com/)
+
+#### Testing
+
+- [Test Talks](http://joecolantonio.com/testtalks/)
+- [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/)
+
+#### Web
+
+- [Between Screens](https://soundcloud.com/between-screens)
+- [Boagworld](https://boagworld.com/show)
+- [Front-end Five](https://frontendfive.codeschool.com/)
+- [Relative Paths](http://relativepaths.uk/)
+- [Shop Talk](http://shoptalkshow.com/)
+- [TTL Podcast](http://ttlpodcast.com/)
+- [The Path to Performance](http://pathtoperf.com/)
+- [The Web Platform Podcast](http://www.thewebplatformpodcast.com/)
+- [Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
 
 ### License
 
