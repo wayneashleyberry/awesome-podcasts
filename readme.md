@@ -130,8 +130,8 @@
     - [NodeUp](http://nodeup.com/) - NodeUp is a podcast about Node.js
     - [Javascript Jabber](https://devchat.tv/js-jabber) - JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - PHP
-    - [PHP Roundtable](https://www.phproundtable.com/)
-    - [PHP Town Hall](https://phptownhall.com/)
+    - [PHP Roundtable](https://www.phproundtable.com/) - The PHP podcast where everyone chimes in.
+    - [PHP Town Hall](https://phptownhall.com/) - A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.
     - [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
     - [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Join us each week as we discuss all things web development.
     - [Voices of the elePHPant](https://voicesoftheelephpant.com/)
