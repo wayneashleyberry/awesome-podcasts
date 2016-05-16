@@ -145,19 +145,19 @@
 
 #### Radio
 
-- [99% Invisible](http://99percentinvisible.org/)
-- [Benjamen Walker's Theory of Everything](https://toe.prx.org/)
-- [Radiolab](http://www.radiolab.org/)
-- [Slack Variety Pack](https://slack.com/varietypack)
+- [99% Invisible](http://99percentinvisible.org/) - Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing.
+- [Benjamen Walker's Theory of Everything](https://toe.prx.org/) - Personally connecting the dots. All of them.
+- [Radiolab](http://www.radiolab.org/) - Radiolab is a show about curiosity.
+- [Slack Variety Pack](https://slack.com/varietypack) - A podcast about work, and the people and teams who do amazing work together.
 
 #### Science
 
-- [StarTalk Radio](http://www.startalkradio.net/)
+- [StarTalk Radio](http://www.startalkradio.net/) - Science meets comedy and pop culture on StarTalk Radio!
 
 #### Stationary
 
-- [The Erasable Podcast](http://www.erasable.us/)
-- [The Pen Addict](http://www.relay.fm/penaddict)
+- [The Erasable Podcast](http://www.erasable.us/) - From literature to carpentry, accounting to space travel, the wood-cased pencil and its ancestor have undeniably been at the center of the creation and innovation for centuries.
+- [The Pen Addict](http://www.relay.fm/penaddict) - The Pen Addict is a weekly fix for all things stationery.
 
 #### Technology
 
