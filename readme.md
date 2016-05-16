@@ -27,7 +27,7 @@
 #### Business
 
 - [Bootstrapped](http://bootstrapped.fm/) - 25+ Years of Software Bootstrapping Experience
-- [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
+- [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it's like running a small web software business.
 - [The Distance](https://thedistance.com/) - The Distance is a podcast by Basecamp about longevity in business, featuring the stories of businesses that have endured for at least 25 years and the people who got them there.
 - [The Rocketship Podcast](http://rocketship.fm/) - The podcast that inspires tens of thousands of entrepreneurs each week.
 - [StartUp](https://gimletmedia.com/show/startup/) - StartUp is a podcast series about what it’s really like to get a business off the ground.
