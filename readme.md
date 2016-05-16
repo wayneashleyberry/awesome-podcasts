@@ -133,10 +133,10 @@
 - [DevelopersHangout](http://www.developershangout.io/)
 - [Full Stack Radio](http://fullstackradio.com/)
 - [Functional Geekery](http://www.functionalgeekery.com/)
-- [Hanselminutes](http://hanselminutes.com/)
+- [Hanselminutes](http://hanselminutes.com/) - Fresh Air for Developers
 - [My Code Is Broken](https://mycodeisbroken.com/)
 - [Programming Throwdown](http://www.programmingthrowdown.com/)
-- [Reactive](http://reactive.audio/)
+- [Reactive](http://reactive.audio/) - A podcast in which we merge, filter, scan and map streams of thoughts and talk about software engineering, culture, and technology.
 - [That Podcast](https://thatpodcast.io/)
 - [The Bike Shed](http://bikeshed.fm/)
 - [The Changelog](https://changelog.com/)
@@ -179,8 +179,8 @@
 - [Between Screens](https://soundcloud.com/between-screens)
 - [Boagworld](https://boagworld.com/show) - Every Thursday Paul Boag and Marcus Lillington are joined by a variety of guests to discuss a range of web design related topics.
 - [Front-end Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes
-- [Relative Paths](http://relativepaths.uk/)
-- [Shop Talk](http://shoptalkshow.com/)
+- [Relative Paths](http://relativepaths.uk/) - A UK based podcast for web industry types
+- [Shop Talk](http://shoptalkshow.com/) - ShopTalk is a podcast about front end web design, development and UX.
 - [TTL Podcast](http://ttlpodcast.com/) - he TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
 - [The Path to Performance](http://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
 - [The Web Platform Podcast](http://www.thewebplatformpodcast.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
