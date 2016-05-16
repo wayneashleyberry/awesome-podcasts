@@ -54,6 +54,8 @@
 - [Food Fight Show](http://foodfightshow.org/)
 - [The Ship Show](http://theshipshow.com/)
 - [The Cloudcast](http://www.thecloudcast.net/)
+- [Google Cloud Platform Podcast](https://www.gcppodcast.com/)
+- [AWS Podcast](https://aws.amazon.com/podcasts/aws-podcast/)
 
 #### Web
 
