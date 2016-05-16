@@ -87,8 +87,8 @@
 
 #### Programming
 
-- [/dev/hell](http://devhell.info/)
-- [Code Podcast](http://codepodcast.com/)
+- [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell.
+- [Code Podcast](http://codepodcast.com/) - A show about modern software engineering.
 - [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/)
 - [Dev Discussions](http://www.devdiscussions.com/) - Dev Discussions are recorded conversations between web-application developers as we discuss relevant topics.
 - [Developer On Fire](http://developeronfire.com/)
@@ -100,7 +100,7 @@
 - [My Code Is Broken](https://mycodeisbroken.com/)
 - [Programming Throwdown](http://www.programmingthrowdown.com/)
 - [Reactive](http://reactive.audio/) - A podcast in which we merge, filter, scan and map streams of thoughts and talk about software engineering, culture, and technology.
-- [That Podcast](https://thatpodcast.io/)
+- [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
 - [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
 - [The Changelog](https://changelog.com/) - Open Source moves fast. Keep up.
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of programming for creative applications
