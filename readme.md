@@ -26,13 +26,12 @@
 
 #### Business
 
-- [Bootstrapped Web](http://bootstrappedweb.com/)
-- [Bootstrapped](http://bootstrapped.fm/)
-- [CodePen Radio](https://blog.codepen.io/radio/)
-- [The Distance](https://thedistance.com/)
-- [The Rocketship Podcast](http://rocketship.fm/)
-- [StartUp](https://gimletmedia.com/show/startup/)
-- [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/)
+- [Bootstrapped](http://bootstrapped.fm/) - 25+ Years of Software Bootstrapping Experience
+- [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
+- [The Distance](https://thedistance.com/) - The Distance is a podcast by Basecamp about longevity in business, featuring the stories of businesses that have endured for at least 25 years and the people who got them there.
+- [The Rocketship Podcast](http://rocketship.fm/) - The podcast that inspires tens of thousands of entrepreneurs each week.
+- [StartUp](https://gimletmedia.com/show/startup/) - StartUp is a podcast series about what it’s really like to get a business off the ground.
+- [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/) - Time Ferriss is a self-experimenter and bestselling author, best know for the 4-Hour Workweek, which has been translated into 40+ languages.
 
 #### Design
 
