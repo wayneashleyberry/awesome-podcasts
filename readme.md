@@ -127,22 +127,22 @@
 - [/dev/hell](http://devhell.info/)
 - [Code Podcast](http://codepodcast.com/)
 - [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/)
-- [Dev Discussions](http://www.devdiscussions.com/)
+- [Dev Discussions](http://www.devdiscussions.com/) - Dev Discussions are recorded conversations between web-application developers as we discuss relevant topics.
 - [Developer On Fire](http://developeronfire.com/)
-- [Developer Tea](https://developertea.com/)
+- [Developer Tea](https://developertea.com/) - A podcast for developers designed to fit inside your tea break.
 - [DevelopersHangout](http://www.developershangout.io/)
-- [Full Stack Radio](http://fullstackradio.com/)
+- [Full Stack Radio](http://fullstackradio.com/) - A podcast for developers interested in building great software products.
 - [Functional Geekery](http://www.functionalgeekery.com/)
 - [Hanselminutes](http://hanselminutes.com/) - Fresh Air for Developers
 - [My Code Is Broken](https://mycodeisbroken.com/)
 - [Programming Throwdown](http://www.programmingthrowdown.com/)
 - [Reactive](http://reactive.audio/) - A podcast in which we merge, filter, scan and map streams of thoughts and talk about software engineering, culture, and technology.
 - [That Podcast](https://thatpodcast.io/)
-- [The Bike Shed](http://bikeshed.fm/)
-- [The Changelog](https://changelog.com/)
+- [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
+- [The Changelog](https://changelog.com/) - Open Source moves fast. Keep up.
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/)
 - [ThoughtWorks](https://www.thoughtworks.com/search?q=podcast&c=sitewide)
-- [Turing Incomplete](http://turing.cool/)
+- [Turing Incomplete](http://turing.cool/) - A Podcast About Programming
 
 #### Radio
 
