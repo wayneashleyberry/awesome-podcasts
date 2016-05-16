@@ -62,7 +62,7 @@
 
 #### Gaming
 
-- [Polygon Longform](http://www.polygon.com/longform) - Description Polygon Longform is a podcast containing spoken word versions of our in-depth features and monthly covers.
+- [Polygon Longform](http://www.polygon.com/longform) - Polygon Longform is a podcast containing spoken word versions of our in-depth features and monthly covers.
 
 #### History
 
