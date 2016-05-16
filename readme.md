@@ -117,9 +117,9 @@
 
 #### Product
 
-- [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
-- [Product People](http://productpeople.tv/)
-- [This is Product Management](http://www.thisisproductmanagement.com/)
+- [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/) - The Giant Robots Smashing into Other Giant Robots podcast is a weekly show from thoughtbot discussing the business of great products.
+- [Product People](http://productpeople.tv/) - A podcast focused on great products and the people who make them
+- [This is Product Management](http://www.thisisproductmanagement.com/) - This is Product Management interviews brilliant minds across numerous disciplines that fuel modern product teams.
 
 #### Programming
 
