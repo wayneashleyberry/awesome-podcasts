@@ -134,7 +134,7 @@
     - [PHP Town Hall](https://phptownhall.com/) - A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.
     - [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
     - [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Join us each week as we discuss all things web development.
-    - [Voices of the elePHPant](https://voicesoftheelephpant.com/)
+    - [Voices of the elePHPant](https://voicesoftheelephpant.com/) - Meet the people that make the PHP community special
 - Python
     - [Podcast.\_\_init\_\_](http://podcastinit.com/) - A podcast about Python and the people who make it great
     - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies
