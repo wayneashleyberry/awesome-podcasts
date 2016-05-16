@@ -87,8 +87,8 @@
     - [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Join us each week as we discuss all things web development.
     - [Voices of the elePHPant](https://voicesoftheelephpant.com/)
 - Python
-    - [Podcast.\_\_init\_\_](http://podcastinit.com/)
-    - [Talk Python To Me](https://talkpython.fm/)
+    - [Podcast.\_\_init\_\_](http://podcastinit.com/) - A podcast about Python and the people who make it great
+    - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies
 - Ruby
     - [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community.
     - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, Ember.js, open source software, and the programming profession.
@@ -139,8 +139,8 @@
 - [That Podcast](https://thatpodcast.io/)
 - [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
 - [The Changelog](https://changelog.com/) - Open Source moves fast. Keep up.
-- [The Creative Coding Podcast](http://creativecodingpodcast.com/)
-- [ThoughtWorks](https://www.thoughtworks.com/search?q=podcast&c=sitewide)
+- [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of programming for creative applications
+- [ThoughtWorks](https://www.thoughtworks.com/search?q=podcast&c=sitewide) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 - [Turing Incomplete](http://turing.cool/) - A Podcast About Programming
 
 #### Radio
