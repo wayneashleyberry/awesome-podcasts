@@ -64,25 +64,35 @@
 
 #### Language Specific
 
-- [CppCast](http://cppcast.com/)
-- [FiveJS](https://fivejs.codeschool.com/)
-- [Go Gab](https://www.briefs.fm/go-gab)
-- [Javascript Jabber](https://devchat.tv/js-jabber)
-- [New Rustacean](http://www.newrustacean.com/)
-- [NodeUp](http://nodeup.com/)
-- [PHP Roundtable](https://www.phproundtable.com/)
-- [PHP Town Hall](https://phptownhall.com/)
-- [Podcast.\_\_init\_\_](http://podcastinit.com/)
-- [Ruby5](https://ruby5.codeschool.com/)
-- [Rusty Radio](https://soundcloud.com/posix4e/sets/rustyradio)
-- [Talk Python To Me](https://talkpython.fm/)
-- [The Cognicast](http://blog.cognitect.com/cognicast/)
-- [The Elixir Fountain](https://soundcloud.com/elixirfountain)
-- [The Laravel Podcast](http://www.laravelpodcast.com/)
-- [The Ruby Rogues](https://devchat.tv/ruby-rogues)
-- [The Scalawags](http://scalawags.tv/)
-- [Three Devs and a Maybe](http://threedevsandamaybe.com/)
-- [Voices of the elePHPant](https://voicesoftheelephpant.com/)
+- C++
+    - [CppCast](http://cppcast.com/)
+- Clojure
+    - [The Cognicast](http://blog.cognitect.com/cognicast/)
+- Elixir
+    - [The Elixir Fountain](https://soundcloud.com/elixirfountain)
+- Go
+    - [Go Gab](https://www.briefs.fm/go-gab)
+- JavaScript
+    - [FiveJS](https://fivejs.codeschool.com/)
+    - [NodeUp](http://nodeup.com/)
+    - [Javascript Jabber](https://devchat.tv/js-jabber)
+- PHP
+    - [PHP Roundtable](https://www.phproundtable.com/)
+    - [PHP Town Hall](https://phptownhall.com/)
+    - [The Laravel Podcast](http://www.laravelpodcast.com/)
+    - [Three Devs and a Maybe](http://threedevsandamaybe.com/)
+    - [Voices of the elePHPant](https://voicesoftheelephpant.com/)
+- Python
+    - [Podcast.\_\_init\_\_](http://podcastinit.com/)
+    - [Talk Python To Me](https://talkpython.fm/)
+- Ruby
+    - [Ruby5](https://ruby5.codeschool.com/)
+    - [The Ruby Rogues](https://devchat.tv/ruby-rogues)
+- Rust
+    - [New Rustacean](http://www.newrustacean.com/)
+    - [Rusty Radio](https://soundcloud.com/posix4e/sets/rustyradio)
+- Scala
+    - [The Scalawags](http://scalawags.tv/)
 
 #### MS / .NET
 
