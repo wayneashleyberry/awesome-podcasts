@@ -36,6 +36,7 @@
 #### Design
 
 - [Layout](http://layout.fm/) - Layout is a weekly podcast about design, technology, programming and everything else.
+- [Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/) - A podcast from Karen McGrane and Ethan Marcotte, who interview people who make responsive designs happen.
 - [Tentative](http://tentative.fm/) - Tentative is a podcast about digital product design, hosted by thoughtbot designers Reda Lemeden & Kyle Fiedler.
 - [Through Process](http://www.throughprocess.com/) - Through Process is a podcast about how we become designers.
 
