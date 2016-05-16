@@ -13,7 +13,7 @@
 - [Developer Interviews](#developer-interviews)
 - [History](#history)
 - [Language Specific](#language-specific)
-- [MS / .NET](#ms--net)
+- [Microsoft](#microsoft)
 - [Mobile](#mobile)
 - [Product](#product)
 - [Programming](#programming)
@@ -65,6 +65,9 @@
 
 #### Language Specific
 
+- C#
+    - [.Net Rocks!](https://www.dotnetrocks.com/)
+    - [CodeChat](https://channel9.msdn.com/Shows/codechat)
 - C++
     - [CppCast](http://cppcast.com/)
 - Clojure
@@ -88,6 +91,7 @@
     - [Talk Python To Me](https://talkpython.fm/)
 - Ruby
     - [Ruby5](https://ruby5.codeschool.com/)
+    - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
     - [The Ruby Rogues](https://devchat.tv/ruby-rogues)
 - Rust
     - [New Rustacean](http://www.newrustacean.com/)
@@ -95,10 +99,8 @@
 - Scala
     - [The Scalawags](http://scalawags.tv/)
 
-#### MS / .NET
+#### Microsoft
 
-- [.Net Rocks!](https://www.dotnetrocks.com/)
-- [CodeChat](https://channel9.msdn.com/Shows/codechat)
 - [Coding Blocks](http://www.codingblocks.net/)
 - [Ctrl+Click](http://ctrlclickcast.com/)
 - [Herding Code](http://herdingcode.com/)
