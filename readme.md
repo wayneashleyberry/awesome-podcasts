@@ -170,20 +170,20 @@
 
 #### Testing
 
-- [Test Talks](http://joecolantonio.com/testtalks/)
-- [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/)
+- [Test Talks](http://joecolantonio.com/testtalks/) - A podcast about software testing and automation
+- [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) - Your regular podcast all about software testing and delivery.
 
 #### Web
 
 - [Between Screens](https://soundcloud.com/between-screens)
-- [Boagworld](https://boagworld.com/show)
-- [Front-end Five](https://frontendfive.codeschool.com/)
+- [Boagworld](https://boagworld.com/show) - Every Thursday Paul Boag and Marcus Lillington are joined by a variety of guests to discuss a range of web design related topics.
+- [Front-end Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes
 - [Relative Paths](http://relativepaths.uk/)
 - [Shop Talk](http://shoptalkshow.com/)
-- [TTL Podcast](http://ttlpodcast.com/)
-- [The Path to Performance](http://pathtoperf.com/)
-- [The Web Platform Podcast](http://www.thewebplatformpodcast.com/)
-- [Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
+- [TTL Podcast](http://ttlpodcast.com/) - he TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
+- [The Path to Performance](http://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
+- [The Web Platform Podcast](http://www.thewebplatformpodcast.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
+- [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - A podcast about JavaScript, web development, web design, and technology.
 
 ### License
 
