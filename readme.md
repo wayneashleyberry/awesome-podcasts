@@ -41,12 +41,12 @@
 
 #### DevOps
 
-- [AWS Podcast](https://aws.amazon.com/podcasts/aws-podcast/)
-- [DevOps Cafe](http://devopscafe.org/)
-- [Food Fight Show](http://foodfightshow.org/)
-- [Google Cloud Platform Podcast](https://www.gcppodcast.com/)
-- [The Cloudcast](http://www.thecloudcast.net/)
-- [The Ship Show](http://theshipshow.com/)
+- [AWS Podcast](https://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
+- [DevOps Cafe](http://devopscafe.org/) - In this interview driven show, John Willis and Damon Edwards take a pragmatic look at the technology, tools, and business developments behind the emerging DevOps movement.
+- [Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
+- [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Tune in every week to listen to Francesc and Mark discuss Google Cloud Platform!
+- [The Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things | Cloud Computing | AWS Ecosystem | OpenSource | DevOps | AppDev | SaaS | SDN
+- [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
 
 #### Developer Interviews
 
