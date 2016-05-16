@@ -84,15 +84,15 @@
     - [PHP Roundtable](https://www.phproundtable.com/)
     - [PHP Town Hall](https://phptownhall.com/)
     - [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
-    - [Three Devs and a Maybe](http://threedevsandamaybe.com/)
+    - [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Join us each week as we discuss all things web development.
     - [Voices of the elePHPant](https://voicesoftheelephpant.com/)
 - Python
     - [Podcast.\_\_init\_\_](http://podcastinit.com/)
     - [Talk Python To Me](https://talkpython.fm/)
 - Ruby
-    - [Ruby5](https://ruby5.codeschool.com/)
-    - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
-    - [The Ruby Rogues](https://devchat.tv/ruby-rogues)
+    - [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community.
+    - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, Ember.js, open source software, and the programming profession.
+    - [The Ruby Rogues](https://devchat.tv/ruby-rogues) - The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby.
 - Rust
     - [New Rustacean](http://www.newrustacean.com/) - A Podcast About Learning Rust
     - [Rusty Radio](https://soundcloud.com/posix4e/sets/rustyradio)
@@ -101,20 +101,19 @@
 
 #### Microsoft
 
-- [Coding Blocks](http://www.codingblocks.net/)
-- [Ctrl+Click](http://ctrlclickcast.com/)
+- [Coding Blocks](http://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer
+- [Ctrl+Click](http://ctrlclickcast.com/) - CTRL+CLICK CAST inspects the web for you!
 - [Herding Code](http://herdingcode.com/)
-- [MS Dev Show](http://msdevshow.com/)
-- [PowerScripting Podcast](http://powershell.org/wp/powerscripting-podcast/)
-- [RunAs Radio](http://www.runasradio.com/)
+- [MS Dev Show](http://msdevshow.com/) - THE podcast for Microsoft developers.
+- [RunAs Radio](http://www.runasradio.com/) - RunAs Radio is a weekly podcast for IT Professionals working with Microsoft products.
 - [Yet Another Podcast](http://jesseliberty.com/podcast/)
 
 #### Mobile
 
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/)
-- [Fragmented](http://fragmentedpodcast.com/)
-- [iOSBytes](https://iosbytes.codeschool.com/)
-- [iPhreaks](https://devchat.tv/iphreaks)
+- [Fragmented](http://fragmentedpodcast.com/) - An Android Developer Podcast
+- [iOSBytes](https://iosbytes.codeschool.com/) - The latest news in the iOS community.
+- [iPhreaks](https://devchat.tv/iphreaks) - The iPhreaks Show is a weekly group discussion about iOS development and related technology by development veterans.
 
 #### Product
 
