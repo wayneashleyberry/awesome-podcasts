@@ -28,9 +28,9 @@
 
 - [Bootstrapped](http://bootstrapped.fm/) - 25+ Years of Software Bootstrapping Experience
 - [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it's like running a small web software business.
+- [StartUp](https://gimletmedia.com/show/startup/) - StartUp is a podcast series about what it’s really like to get a business off the ground.
 - [The Distance](https://thedistance.com/) - The Distance is a podcast by Basecamp about longevity in business, featuring the stories of businesses that have endured for at least 25 years and the people who got them there.
 - [The Rocketship Podcast](http://rocketship.fm/) - The podcast that inspires tens of thousands of entrepreneurs each week.
-- [StartUp](https://gimletmedia.com/show/startup/) - StartUp is a podcast series about what it’s really like to get a business off the ground.
 - [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/) - Time Ferriss is a self-experimenter and bestselling author, best know for the 4-Hour Workweek, which has been translated into 40+ languages.
 
 #### Design
@@ -54,10 +54,10 @@
 - [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) Away From The Keyboard is a podcast that talks to technologists and tells their stories.
 - [Descriptive](http://descriptive.audio/) - Programmer origin stories
 - [Hello World Podcast](https://wildermuth.com/hwpod) - Interviews with your favorite speakers about how they got started!
+- [no dogma](http://nodogmapodcast.bryanhogan.net/) - Discussions on software development
 - [Scale Your Code](https://scaleyourcode.com/) - Learn from today's most successful developers and CTOs with in-depth interviews.
 - [Software Engineering Daily](http://softwareengineeringdaily.com/) - Software Engineering Daily features daily interviews about technical software topics.
 - [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
-- [no dogma](http://nodogmapodcast.bryanhogan.net/) - Discussions on software development
 
 #### History
 
@@ -180,9 +180,9 @@
 - [Front-end Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes
 - [Relative Paths](http://relativepaths.uk/) - A UK based podcast for web industry types
 - [Shop Talk](http://shoptalkshow.com/) - ShopTalk is a podcast about front end web design, development and UX.
-- [TTL Podcast](http://ttlpodcast.com/) - he TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
 - [The Path to Performance](http://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
 - [The Web Platform Podcast](http://www.thewebplatformpodcast.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
+- [TTL Podcast](http://ttlpodcast.com/) - he TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
 - [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - A podcast about JavaScript, web development, web design, and technology.
 
 ### License
