@@ -161,11 +161,12 @@
 
 #### Technology
 
-- [Accidental Tech Podcast](http://atp.fm/)
-- [Analog(ue)](http://www.relay.fm/analogue)
-- [Ctrl-Walt-Delete](http://www.theverge.com/label/ctrl-walt-delete)
-- [The Vergecast](http://www.theverge.com/label/the-vergecast)
-- [a16z](http://a16z.com/)
+- [a16z](http://a16z.com/podcasts/) - Software Is Eating the World
+- [Accidental Tech Podcast](http://atp.fm/) - A tech podcast we accidentally created while trying to do a car show.
+- [Analog(ue)](http://www.relay.fm/analogue) - So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse.
+- [Ctrl-Walt-Delete](http://www.theverge.com/label/ctrl-walt-delete) - Ctrl-Walt-Delete is a new show from The Verge featuring legendary tech reviewer Walt Mossberg and Verge editor-in-chief Nilay Patel.
+- [What's Tech](http://www.theverge.com/whatstech) - We live in the future, where drones skim the sky, corporations enter the space race, and smart watches track our every movement. But how? And why?
+- [The Vergecast](http://www.theverge.com/label/the-vergecast) - The Vergecast is your source for an irreverent and informative look at what's happening right now (and next) in the world of technology and gadgets.
 
 #### Testing
 
