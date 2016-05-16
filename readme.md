@@ -137,6 +137,8 @@
 - [CodePen Radio](https://blog.codepen.io/radio/)
 - [The Distance](https://thedistance.com/)
 - [The Rocketship Podcast](http://rocketship.fm/)
+- [StartUp](https://gimletmedia.com/show/startup/)
+- [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/)
 
 #### Product
 
