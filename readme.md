@@ -6,22 +6,22 @@
 
 ### Table of Contents
 
-- [#programming](Programming)
-- [#testing](Testing)
-- [#devops](DevOps)
-- [#web](Web)
-- [#mobile](Mobile)
-- [#ms--net](MS / .NET)
-- [#language-specific](Language Specific)
-- [#developer-interviews](Developer Interviews)
-- [#technology](Technology)
-- [#business](Business)
-- [#product](Product)
-- [#stationary](Stationary)
-- [#design](Design)
-- [#radio](Radio)
-- [#science](Science)
-- [#history](History)
+- [Programming](#programming)
+- [Testing](#testing)
+- [DevOps](#devops)
+- [Web](#web)
+- [Mobile](#mobile)
+- [MS / .NET](#ms--net)
+- [Language Specific](#language-specific)
+- [Developer Interviews](#developer-interviews)
+- [Technology](#technology)
+- [Business](#business)
+- [Product](#product)
+- [Stationary](#stationary)
+- [Design](#design)
+- [Radio](#radio)
+- [Science](#science)
+- [History](#history)
 
 #### Programming
 
