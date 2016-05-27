@@ -125,6 +125,7 @@
     - [The Elixir Fountain](https://soundcloud.com/elixirfountain) - Your weekly podcast for news & interviews from around the Elixir lang Community
 - Go
     - [Go Gab](https://www.briefs.fm/go-gab) - A podcast about everything Go.
+    - [Go Time](https://changelog.com/gotime/) - Go Time is a weekly podcast featuring specials guests where we'll discuss interesting topics around Go the language, the community, and everything in between.
 - JavaScript
     - [FiveJS](https://fivejs.codeschool.com/) - The latest news in the JavaScript community.
     - [NodeUp](http://nodeup.com/) - NodeUp is a podcast about Node.js
