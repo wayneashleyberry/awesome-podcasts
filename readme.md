@@ -127,40 +127,61 @@
 
 #### Programming Languages
 
-- C#
-    - [.Net Rocks!](https://www.dotnetrocks.com/) - .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform.
-    - [CodeChat](https://channel9.msdn.com/Shows/codechat) - CodeChat is an endless collection of casual conversations with software developers, technologists, gadgeteers, innovators, makers, and more.
-- C++
-    - [CppCast](http://cppcast.com/) - CppCast is the only podcast for C++ developers by C++ developers.
-- Clojure
-    - [The Cognicast](http://blog.cognitect.com/cognicast/) - A podcast by Cognitect, Inc. about software and the people that create it.
-- Elixir
-    - [The Elixir Fountain](https://soundcloud.com/elixirfountain) - Your weekly podcast for news & interviews from around the Elixir lang Community
-- Go
-    - [Go Gab](https://www.briefs.fm/go-gab) - A podcast about everything Go.
-    - [Go Time](https://changelog.com/gotime/) - Go Time is a weekly podcast featuring specials guests where we'll discuss interesting topics around Go the language, the community, and everything in between.
-- JavaScript
-    - [FiveJS](https://fivejs.codeschool.com/) - The latest news in the JavaScript community.
-    - [NodeUp](http://nodeup.com/) - NodeUp is a podcast about Node.js
-    - [Javascript Jabber](https://devchat.tv/js-jabber) - JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
-- PHP
-    - [PHP Roundtable](https://www.phproundtable.com/) - The PHP podcast where everyone chimes in.
-    - [PHP Town Hall](https://phptownhall.com/) - A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.
-    - [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
-    - [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Join us each week as we discuss all things web development.
-    - [Voices of the elePHPant](https://voicesoftheelephpant.com/) - Meet the people that make the PHP community special
-- Python
-    - [Podcast.\_\_init\_\_](http://podcastinit.com/) - A podcast about Python and the people who make it great
-    - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies
-- Ruby
-    - [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community.
-    - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, Ember.js, open source software, and the programming profession.
-    - [The Ruby Rogues](https://devchat.tv/ruby-rogues) - The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby.
-- Rust
-    - [New Rustacean](http://www.newrustacean.com/) - A Podcast About Learning Rust
-    - [Rusty Radio](https://soundcloud.com/posix4e/sets/rustyradio)
-- Scala
-    - [The Scalawags](http://scalawags.tv/) - Monthly podcasts about Scala language
+##### C#
+
+- [.Net Rocks!](https://www.dotnetrocks.com/) - .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform.
+- [CodeChat](https://channel9.msdn.com/Shows/codechat) - CodeChat is an endless collection of casual conversations with software developers, technologists, gadgeteers, innovators, makers, and more.
+
+##### C++
+
+- [CppCast](http://cppcast.com/) - CppCast is the only podcast for C++ developers by C++ developers.
+
+##### Clojure
+
+- [The Cognicast](http://blog.cognitect.com/cognicast/) - A podcast by Cognitect, Inc. about software and the people that create it.
+
+##### Elixir
+
+- [The Elixir Fountain](https://soundcloud.com/elixirfountain) - Your weekly podcast for news & interviews from around the Elixir lang Community
+
+##### Go
+
+- [Go Gab](https://www.briefs.fm/go-gab) - A podcast about everything Go.
+- [Go Time](https://changelog.com/gotime/) - Go Time is a weekly podcast featuring specials guests where we'll discuss interesting topics around Go the language, the community, and everything in between.
+
+##### JavaScript
+
+- [FiveJS](https://fivejs.codeschool.com/) - The latest news in the JavaScript community.
+- [NodeUp](http://nodeup.com/) - NodeUp is a podcast about Node.js
+- [Javascript Jabber](https://devchat.tv/js-jabber) - JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
+
+##### PHP
+
+- [PHP Roundtable](https://www.phproundtable.com/) - The PHP podcast where everyone chimes in.
+- [PHP Town Hall](https://phptownhall.com/) - A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.
+- [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
+- [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Join us each week as we discuss all things web development.
+- [Voices of the elePHPant](https://voicesoftheelephpant.com/) - Meet the people that make the PHP community special
+
+##### Python
+
+- [Podcast.\_\_init\_\_](http://podcastinit.com/) - A podcast about Python and the people who make it great
+- [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies
+
+##### Ruby
+
+- [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community.
+- [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, Ember.js, open source software, and the programming profession.
+- [The Ruby Rogues](https://devchat.tv/ruby-rogues) - The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby.
+
+##### Rust
+
+- [New Rustacean](http://www.newrustacean.com/) - A Podcast About Learning Rust
+- [Rusty Radio](https://soundcloud.com/posix4e/sets/rustyradio)
+
+##### Scala
+
+- [The Scalawags](http://scalawags.tv/) - Monthly podcasts about Scala language
 
 #### Radio
 
