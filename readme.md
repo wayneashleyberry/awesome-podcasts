@@ -8,6 +8,7 @@
 ### Table of Contents
 
 - [Business](#business)
+- [Data Science](#data-science)
 - [Design](#design)
 - [DevOps](#devops)
 - [Developer Interviews](#developer-interviews)
@@ -25,6 +26,8 @@
 - [Testing](#testing)
 - [Web](#web)
 
+---
+
 #### Business
 
 - [Bootstrapped](http://bootstrapped.fm/) - 25+ Years of Software Bootstrapping Experience
@@ -33,6 +36,16 @@
 - [The Distance](https://thedistance.com/) - The Distance is a podcast by Basecamp about longevity in business, featuring the stories of businesses that have endured for at least 25 years and the people who got them there.
 - [The Rocketship Podcast](http://rocketship.fm/) - The podcast that inspires tens of thousands of entrepreneurs each week.
 - [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/) - Time Ferriss is a self-experimenter and bestselling author, best know for the 4-Hour Workweek, which has been translated into 40+ languages.
+
+#### Data Science
+
+- [Data Skeptic](https://dataskeptic.com/) - Data Skeptic is your source for a perseptive of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science.
+- [Learning Machines 101](http://www.learningmachines101.com/) - A gentle introduction to Artificial Intelligence and Machine Learning
+- [Talking Machines](http://www.thetalkingmachines.com/) - Human conversation about machine learning.
+- [The AI Podcast](https://blogs.nvidia.com/ai-podcast/) - Artificial Intelligence has been described as “Thor’s Hammer“ and “the new electricity.” But it’s also a bit of a mystery – even to those who know it best.
+- [The O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast) - The O'Reilly Bots Podcast covers advances in conversational user interfaces, artificial intelligence, and messaging that are revolutionizing the way we interact with software.
+- [The O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) - The O'Reilly Data Show Podcast explores the opportunities and techniques driving big data and data science.
+- [This Week in Machine Learning & AI](https://twimlai.com/) - Your guide to all that’s interesting and important in the world of machine learning and AI.
 
 #### Design
 
