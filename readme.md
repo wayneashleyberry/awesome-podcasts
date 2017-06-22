@@ -152,8 +152,9 @@
 ##### JavaScript
 
 - [FiveJS](https://fivejs.codeschool.com/) - The latest news in the JavaScript community.
-- [NodeUp](http://nodeup.com/) - NodeUp is a podcast about Node.js
+- [JS Party](https://changelog.com/jsparty) - A community celebration of JavaScript and the web.
 - [Javascript Jabber](https://devchat.tv/js-jabber) - JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
+- [NodeUp](http://nodeup.com/) - NodeUp is a podcast about Node.js
 
 ##### PHP
 
@@ -187,6 +188,7 @@
 
 - [99% Invisible](http://99percentinvisible.org/) - Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing.
 - [Benjamen Walker's Theory of Everything](https://toe.prx.org/) - Personally connecting the dots. All of them.
+- [Do By Friday](http://dobyfriday.com/) - A weekly challenge show hosted by Merlin Mann, Alex Cox, and Max Temkin.
 - [Radiolab](http://www.radiolab.org/) - Radiolab is a show about curiosity.
 - [Slack Variety Pack](https://slack.com/varietypack) - A podcast about work, and the people and teams who do amazing work together.
 
