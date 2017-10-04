@@ -156,6 +156,11 @@
 - [Javascript Jabber](https://devchat.tv/js-jabber) - JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [NodeUp](http://nodeup.com/) - NodeUp is a podcast about Node.js
 
+##### Kotlin
+
+- [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
+
+
 ##### PHP
 
 - [PHP Roundtable](https://www.phproundtable.com/) - The PHP podcast where everyone chimes in.
