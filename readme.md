@@ -9,6 +9,7 @@
 
 * [Apple](#apple)
 * [Business](#business)
+* [Comedy](#comedy)
 * [Cryptocurrencies & Blockchain](#cryptocurrencies--blockchain)
 * [Data Science](#data-science)
 * [Design](#design)
@@ -17,13 +18,14 @@
 * [Finance](#finance)
 * [Gaming](#gaming)
 * [History](#history)
+* [Media](#media)
 * [Microsoft](#microsoft)
 * [Mobile](#mobile)
 * [Product](#product)
 * [Programming](#programming)
 * [Programming Languages](#programming-languages)
 * [Radio](#radio)
-* [Science](#science)
+* [Space](#space)
 * [Stationary](#stationary)
 * [Technology](#technology)
 * [Testing](#testing)
@@ -33,6 +35,7 @@
 
 #### Apple
 
+* [AppStories](https://appstories.net/) - Each week, Federico and John discuss their favorite new apps and noteworthy updates, dive into the stories and people behind the apps they love, and explore the social and cultural impact of the App Store.
 * [Welcome to Macintosh](https://www.macintosh.fm/) - A tiny show about a big fruit company.
 
 #### Business
@@ -43,6 +46,10 @@
 * [The Distance](https://thedistance.com/) - The Distance is a podcast by Basecamp about longevity in business, featuring the stories of businesses that have endured for at least 25 years and the people who got them there.
 * [The Rocketship Podcast](http://rocketship.fm/) - The podcast that inspires tens of thousands of entrepreneurs each week.
 * [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/) - Time Ferriss is a self-experimenter and bestselling author, best know for the 4-Hour Workweek, which has been translated into 40+ languages.
+
+#### Comedy
+
+* [Do By Friday](http://dobyfriday.com/) - A weekly challenge show hosted by Merlin Mann, Alex Cox, and Max Temkin.
 
 #### Cryptocurrencies & Blockchain
 
@@ -90,6 +97,7 @@
 
 #### Finance
 
+* [Freakonomics Radio](http://freakonomics.com/archive/) - Freakonomics Radio is an award-winning weekly podcast with 8 million downloads per month.
 * [Invest Like the Best](http://investorfieldguide.com/podcast/) - Welcome to Invest Like the Best. In each episode, I speak with the most interesting people I can find, whose stories will help you better invest your time and your money, and teach you how to play with boundaries in your own life.
 * [Planet Money](https://www.npr.org/sections/money/127413671/finance/) - The economy explained.
 
@@ -100,6 +108,10 @@
 #### History
 
 * [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past.
+
+#### Media
+
+* [The Incomparable](https://www.theincomparable.com/theincomparable/) - The Incomparable is a weekly dive into geeky media we love, including movies, books, TV, comics, and more, featuring a rotating panel of guests and hosted by Jason Snell.
 
 #### Microsoft
 
@@ -213,12 +225,12 @@
 
 * [99% Invisible](http://99percentinvisible.org/) - Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing.
 * [Benjamen Walker's Theory of Everything](https://toe.prx.org/) - Personally connecting the dots. All of them.
-* [Do By Friday](http://dobyfriday.com/) - A weekly challenge show hosted by Merlin Mann, Alex Cox, and Max Temkin.
 * [Radiolab](http://www.radiolab.org/) - Radiolab is a show about curiosity.
 * [Slack Variety Pack](https://slack.com/varietypack) - A podcast about work, and the people and teams who do amazing work together.
 
-#### Science
+#### Space
 
+* [Liftoff](https://www.relay.fm/liftoff) - All systems go
 * [StarTalk Radio](http://www.startalkradio.net/) - Science meets comedy and pop culture on StarTalk Radio!
 
 #### Stationary
@@ -249,7 +261,7 @@
 * [Shop Talk](http://shoptalkshow.com/) - ShopTalk is a podcast about front end web design, development and UX.
 * [The Path to Performance](http://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
 * [The Web Platform Podcast](http://www.thewebplatformpodcast.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
-* [TTL Podcast](http://ttlpodcast.com/) - he TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
+* [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - A podcast about JavaScript, web development, web design, and technology.
 
 ### License
