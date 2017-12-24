@@ -7,11 +7,14 @@
 
 ### Table of Contents
 
+* [Apple](#apple)
 * [Business](#business)
+* [Cryptocurrencies & Blockchain](#cryptocurrencies--blockchain)
 * [Data Science](#data-science)
 * [Design](#design)
 * [DevOps](#devops)
 * [Developer Interviews](#developer-interviews)
+* [Finance](#finance)
 * [Gaming](#gaming)
 * [History](#history)
 * [Microsoft](#microsoft)
@@ -28,6 +31,10 @@
 
 ---
 
+#### Apple
+
+* [Welcome to Macintosh](https://www.macintosh.fm/) - A tiny show about a big fruit company.
+
 #### Business
 
 * [Bootstrapped](http://bootstrapped.fm/) - 25+ Years of Software Bootstrapping Experience
@@ -36,6 +43,14 @@
 * [The Distance](https://thedistance.com/) - The Distance is a podcast by Basecamp about longevity in business, featuring the stories of businesses that have endured for at least 25 years and the people who got them there.
 * [The Rocketship Podcast](http://rocketship.fm/) - The podcast that inspires tens of thousands of entrepreneurs each week.
 * [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/) - Time Ferriss is a self-experimenter and bestselling author, best know for the 4-Hour Workweek, which has been translated into 40+ languages.
+
+#### Cryptocurrencies & Blockchain
+
+* [Blockchain Curated](https://www.blockchaincurated.com/) - Blockchain Curated is a project by Zach Segal twitter that makes the best blockchain-related content more accessible to the world. We curate the top 1% of cryptocurrency articles and convert them into free weekly podcasts that are emailed to our listeners.
+* [BlockChannel](http://blockchannel.com/) - At BlockChannel we believe that education about digital currencies and blockchains should be relevant, fun, and easy to find. We hope to help create a new generation of financial-tech developers/enthusiasts!
+* [Flippening](https://p.nomics.com/podcast/) - Flippening Is A Podcast For Full-time & Institutional Crypto Investors
+* [Ledger Cast](https://ledgerstatus.com/) - Blockchain & Cryptocurrency Information, Analysis, and News
+* [Unchained](https://www.forbes.com/podcasts/unchained/#18aa921d5b4f) - In this podcast, host Laura Shin talks with industry pioneers across tech, financial services, health care, government and other sectors about how the blockchain and fintech will open up new opportunities for incumbents, startups and everyday people to interact more efficiently, directly and globally.
 
 #### Data Science
 
@@ -72,6 +87,11 @@
 * [Scale Your Code](https://scaleyourcode.com/) - Learn from today's most successful developers and CTOs with in-depth interviews.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) - Software Engineering Daily features daily interviews about technical software topics.
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
+
+#### Finance
+
+* [Invest Like the Best](http://investorfieldguide.com/podcast/) - Welcome to Invest Like the Best. In each episode, I speak with the most interesting people I can find, whose stories will help you better invest your time and your money, and teach you how to play with boundaries in your own life.
+* [Planet Money](https://www.npr.org/sections/money/127413671/finance/) - The economy explained.
 
 #### Gaming
 
@@ -122,6 +142,7 @@
 * [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
 * [The Changelog](https://changelog.com/) - Open Source moves fast. Keep up.
 * [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of programming for creative applications
+* [The Manifest](https://manifest.fm/) - A podcast all about package management
 * [ThoughtWorks](https://www.thoughtworks.com/search?q=podcast&c=sitewide) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 * [Turing Incomplete](http://turing.cool/) - A Podcast About Programming
 
