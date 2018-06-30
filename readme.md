@@ -11,6 +11,7 @@
 * [Business](#business)
 * [Comedy](#comedy)
 * [Cryptocurrencies & Blockchain](#cryptocurrencies--blockchain)
+* [Databases)(#databases)
 * [Data Science](#data-science)
 * [Design](#design)
 * [DevOps](#devops)
@@ -58,6 +59,11 @@
 * [Flippening](https://p.nomics.com/podcast/) - Flippening Is A Podcast For Full-time & Institutional Crypto Investors
 * [Ledger Cast](https://ledgerstatus.com/) - Blockchain & Cryptocurrency Information, Analysis, and News
 * [Unchained](https://www.forbes.com/podcasts/unchained/#18aa921d5b4f) - In this podcast, host Laura Shin talks with industry pioneers across tech, financial services, health care, government and other sectors about how the blockchain and fintech will open up new opportunities for incumbents, startups and everyday people to interact more efficiently, directly and globally.
+
+#### Databases
+
+* [Scaling Postgres](https://player.fm/series/scaling-postgres) - Learn how to get the best performance and scale your PostgreSQL database via curated content from this weekly show.
+* [The NoSQL Database Podcast](https://nosql.libsyn.com/) - NoSQL tips and tricks as well as success stories from around the world. 
 
 #### Data Science
 
