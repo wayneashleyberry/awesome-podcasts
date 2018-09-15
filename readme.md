@@ -11,7 +11,7 @@
 * [Business](#business)
 * [Comedy](#comedy)
 * [Cryptocurrencies & Blockchain](#cryptocurrencies--blockchain)
-* [Databases)(#databases)
+* [Databases](#databases)
 * [Data Science](#data-science)
 * [Design](#design)
 * [DevOps](#devops)
