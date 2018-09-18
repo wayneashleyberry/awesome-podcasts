@@ -94,6 +94,7 @@
 #### Developer Interviews
 
 * [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) Away From The Keyboard is a podcast that talks to technologists and tells their stories.
+* [Corecursive Interview](https://corecursive.com/) Listen to CoRecursive Interviews to learn from software experts.
 * [Descriptive](http://descriptive.audio/) - Programmer origin stories
 * [Hello World Podcast](https://wildermuth.com/hwpod) - Interviews with your favorite speakers about how they got started!
 * [no dogma](http://nodogmapodcast.bryanhogan.net/) - Discussions on software development
