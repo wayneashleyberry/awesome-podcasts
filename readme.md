@@ -247,6 +247,7 @@
 
 #### Technology
 
+* [The Data Engineering Show](https://www.dataengineeringshow.com/subscribe) - The DATA BROS talk to top data engineers from tech-forward brands about how they address their biggest data challenges.
 * [a16z](http://a16z.com/podcasts/) - Software Is Eating the World
 * [Accidental Tech Podcast](http://atp.fm/) - A tech podcast we accidentally created while trying to do a car show.
 * [Analog(ue)](http://www.relay.fm/analogue) - So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse.
